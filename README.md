@@ -33,7 +33,7 @@ I am a student at the **Faculty of Computers and Artificial Intelligence, Cairo 
     <img height="50" src="https://skillicons.dev/icons?i=dotnet" alt=".NET">&nbsp;&nbsp;
     <img height="50" src="https://skillicons.dev/icons?i=react" alt="React">&nbsp;&nbsp;
     <img height="50" src="https://skillicons.dev/icons?i=git" alt="Git">&nbsp;&nbsp;
-    <img height="50" src="./Icons/sqlserver.png" alt="SQL Server">&nbsp;&nbsp;
+    <img height="50" src="./Icons/sql-server.svg" alt="SQL Server">&nbsp;&nbsp;
 </p>
 
 ---
