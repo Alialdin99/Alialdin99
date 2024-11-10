@@ -34,6 +34,8 @@ I am a student at the **Faculty of Computers and Artificial Intelligence, Cairo 
     <img height="50" src="https://skillicons.dev/icons?i=react" alt="React">&nbsp;&nbsp;
     <img height="50" src="https://skillicons.dev/icons?i=git" alt="Git">&nbsp;&nbsp;
     <img height="50" src="./Icons/sql-server.svg" alt="SQL Server">&nbsp;&nbsp;
+    <img height="50" src="./Icons/docker.webp" alt="Docker">&nbsp;&nbsp;
+    <img height="50" src="./Icons/rabbitmq.png" alt="RabbitMQ">&nbsp;&nbsp;
 </p>
 
 ---
