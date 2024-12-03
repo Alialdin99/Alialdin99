@@ -9,7 +9,7 @@
 
 I am a student at the **Faculty of Computers and Artificial Intelligence, Cairo University**, and a passionate .NET Developer dedicated to creating innovative software solutions. Proficient in C# and .NET with practical experience in ASP.NET MVC, ASP.NET API, Entity Framework, and Microsoft SQL Server. I possess strong problem-solving skills and am eager to contribute to cutting-edge projects, expand my technical expertise, and seek opportunities to grow and make an impact in the software development field.
 
-📄 [Download My Resume]([https://drive.google.com/file/d/12j2pdWx_Yn8Vm3equx-vcWFMyBCp_i3l/view?usp=drive_link](https://drive.google.com/file/d/1bZ-DmArSuSMnQ2PJbY3yzm9sypx1H_ww/view?usp=sharing))
+📄 [Download My Resume](https://drive.google.com/file/d/1bZ-DmArSuSMnQ2PJbY3yzm9sypx1H_ww/view?usp=sharing)
 
 ---
 
